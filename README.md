@@ -1,2 +1,2 @@
 # Tomato-Temperature-Measurement-Project
- Measuring the temperaure of tomatoes in different climates
+ Measuring the temperaure of tomatoes in different degrees
